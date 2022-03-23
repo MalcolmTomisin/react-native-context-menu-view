@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { SafeAreaView, View, StyleSheet } from 'react-native';
+import { SafeAreaView, View, StyleSheet, TouchableOpacity } from 'react-native';
 import ContextMenu from 'react-native-context-menu-view';
 
 const App = () => {

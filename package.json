@@ -1,5 +1,5 @@
 {
-  "name": "react-native-context-menu-view",
+  "name": "react-native-context-view-menu",
   "title": "React Native Context Menu View",
   "version": "1.4.0",
   "description": "Use native context menu views from React Native",
@@ -10,8 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpiannucci/react-native-context-menu-view.git",
-    "baseUrl": "https://github.com/mpiannucci/react-native-context-menu-view"
+    "url": "git+https://github.com/MalcolmTomisin/react-native-context-menu-view.git",
+    "baseUrl": "https://github.com/MalcolmTomisin/react-native-context-menu-view"
   },
   "keywords": [
     "react-native"
